@@ -1,4 +1,4 @@
-Automatic Rain Detection and Wiper Control System
+#Automatic Rain Detection and Wiper Control System
 An autonomous hardware solution that detects rainfall and manages wiper speed through discrete electronic components. This project replaces microcontroller-based logic with a custom-designed circuit using Shift Registers, Multiplexers, and Op-Amp based ADCs.
 
 Overview
